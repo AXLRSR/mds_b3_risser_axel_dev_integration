@@ -1,9 +1,10 @@
-# tests_integration
+# Tests integration
 
-# Launch API
+## Install node modules
+npm install
 
-node index.js
+## Launch API
+npm start
 
-# Launch test
-
-npm test 
+## Launch test
+npm test
